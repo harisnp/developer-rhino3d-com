@@ -117,7 +117,7 @@ All lists in Python are zero-based indexed. When referencing a member or the len
 
 ```python
 mylist = ['Rhino', 'Grasshopper', 'Flamingo', 'Bongo']
-B = len(mylist) # This will return the length of the list which is 3. The index is 0, 1, 2, 3.
+B = len(mylist) # This will return the length of the list which is 4. The index is 0, 1, 2, 3.
 print mylist[1] # This will return the value at index 1, which is 'Grasshopper'
 print mylist[0:2] # This will return the first 3 elements in the list.
 ```
